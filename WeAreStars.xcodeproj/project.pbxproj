@@ -14,6 +14,7 @@
 		95FE731825ADC80E00440645 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95FE731725ADC80E00440645 /* Assets.xcassets */; };
 		95FE731B25ADC80E00440645 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95FE731925ADC80E00440645 /* LaunchScreen.storyboard */; };
 		95FE732525ADC83100440645 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 95FE732425ADC83100440645 /* .gitignore */; };
+		95FE734425AE41E100440645 /* annaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95FE734325AE41E100440645 /* annaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		95FE731A25ADC80E00440645 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		95FE731C25ADC80E00440645 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		95FE732425ADC83100440645 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		95FE734325AE41E100440645 /* annaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = annaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				95FE731025ADC80A00440645 /* SceneDelegate.swift */,
 				95FE731225ADC80A00440645 /* ViewController.swift */,
 				95FE731425ADC80A00440645 /* Main.storyboard */,
+				95FE734325AE41E100440645 /* annaViewController.swift */,
 				95FE731725ADC80E00440645 /* Assets.xcassets */,
 				95FE731925ADC80E00440645 /* LaunchScreen.storyboard */,
 				95FE731C25ADC80E00440645 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95FE734425AE41E100440645 /* annaViewController.swift in Sources */,
 				95FE731325ADC80A00440645 /* ViewController.swift in Sources */,
 				95FE730F25ADC80A00440645 /* AppDelegate.swift in Sources */,
 				95FE731125ADC80A00440645 /* SceneDelegate.swift in Sources */,
